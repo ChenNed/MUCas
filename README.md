@@ -7,3 +7,6 @@ This is a TensorFlow implementation of paper "Multi-Scale Graph Capsule with Inf
     * preprocess the original Weibo dataset (`preprocess_weibo.py`);
     * split the data to train set, validation set and test set (`split_dataset.py`);
     * trainsform the datasets to the format of ".pkl" (`gen_model_input.py`).
+# Datasets
+- Weibo https://github.com/CaoQi92/DeepHawkes
+- APS http://journals.aps.org
